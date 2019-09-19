@@ -11,7 +11,7 @@
   					int i,j,n;
   					Scanner np = new Scanner(System.in);
   					System.out.println("Enter Number Range limit");
-                    n = np.nextInt();
+            n = np.nextInt();
   					System.out.println("Non prime numbers in range 1 - " + n + " are :");
   					for(i=1;i<=n;i++)
   					{    
