@@ -11,7 +11,7 @@
   					int i=0,j,n;
   					Scanner np = new Scanner(System.in);
   					System.out.println("Enter Number Range limit");
-                                        n = np.nextInt()
+                                        n = np.nextInt();
                                         int k=n;
   				        System.out.println("First "+n+" non-prime numbers are :");
   				        for(;k>0;)
