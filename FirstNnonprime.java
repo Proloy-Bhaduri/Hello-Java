@@ -12,8 +12,8 @@
   					boolean fl;
   					Scanner np = new Scanner(System.in);// object creation  style in java
   					System.out.println("Enter Number Range limit");
-                    n = np.nextInt();
-  					//System.out.println("Non prime numbers in range 1 - " + n + " are :");
+            n = np.nextInt();
+  				  System.out.println("First "+n+" non-prime numbers are :");
   					while (n!=0)
   					{     
   						i++; 
