@@ -5,7 +5,7 @@
   import java.util.*;
   public  class  Nprime
   		{
-  			public static void main(String args[])
+  			public static void main(String pb99[])
   				{
   					int i,j,n;
   					Scanner np = new Scanner(System.in);
