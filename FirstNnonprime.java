@@ -8,7 +8,7 @@
   		{
   			public static void main(String pb99[])
   				{
-  					int i=2,k,j,n;
+  					int i=0,k,j,n;
   					Scanner np = new Scanner(System.in);// object creation  style in java
   					System.out.println("Enter Number Range limit");
                                         n = np.nextInt();
