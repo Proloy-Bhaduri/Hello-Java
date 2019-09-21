@@ -6,7 +6,7 @@
   import java.util.*;
   public  class  FirstNnonprime
   		{
-  			public static void main(String args[])
+  			public static void main(String pb99[])
   				{
   					int i=2,k,j,n;
   					Scanner np = new Scanner(System.in);// object creation  style in java
