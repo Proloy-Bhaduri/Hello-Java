@@ -8,12 +8,12 @@
   		{
   			public static void main(String args[])
   				{
-  					int i=2,j,n;
+  					int i=2,k,j,n;
   					Scanner np = new Scanner(System.in);// object creation  style in java
   					System.out.println("Enter Number Range limit");
                                         n = np.nextInt();
   				        System.out.println("First "+n+" non-prime numbers are :");
-  					while (n!=0)
+  				        for(k=n;k>0;)
   					{     
   						i++; 
   						for(j = 2;j<=i/2;++j)
@@ -22,7 +22,7 @@
   						   	  if(i%j == 0 )
   						       {
                                                         System.out.printf(i+" ");
-  						       	n--;
+  						       	k--;
   						       	break;
   						        }
   						    }//end of inner loop
