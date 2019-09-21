@@ -18,8 +18,7 @@
   						i++; 
   						for(j = 2;j<=i/2;++j)
   						   {
-
-  						   	  if(i%j == 0 )
+                                                     if(i%j == 0 )
   						       {
                                                         System.out.printf(i+" ");
   						       	k--;
