@@ -21,7 +21,7 @@
 
   						   	  if(i%j == 0 )
   						       {
-                                                        System.out.println(i);
+                                                        System.out.printf(i+" ");
   						       	n--;
   						       	break;
   						        }
