@@ -4,7 +4,7 @@
    Solution Made by Proloy Bhaduri
  /*Solution: */ 
   import java.util.*;
-  public  class  Nprime
+  public  class  FirstNnonprime
   		{
   			public static void main(String args[])
   				{
