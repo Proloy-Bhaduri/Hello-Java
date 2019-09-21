@@ -8,12 +8,13 @@
   		{
   			public static void main(String pb99[])
   				{
-  					int i=0,k,j,n;
+  					int i=0,j,n;
   					Scanner np = new Scanner(System.in);// object creation  style in java
   					System.out.println("Enter Number Range limit");
-                                        n = np.nextInt();
+                                        n = np.nextInt()
+                                        int k=n;
   				        System.out.println("First "+n+" non-prime numbers are :");
-  				        for(k=n;k>0;)
+  				        for(;k>0;)
   					{     
   						i++; 
   						for(j = 2;j<=i/2;++j)
