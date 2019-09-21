@@ -1,5 +1,4 @@
-/* ASSIGNMENT - I : 
-  Q. 4) Write a java program to print the first N non-prime numbers
+/* Write a java program to print the all non-prime numbers between 1 - N
 
    Solution Made by Proloy Bhaduri
  Solution: */ 
