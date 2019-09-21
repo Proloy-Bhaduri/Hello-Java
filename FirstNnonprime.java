@@ -9,7 +9,7 @@
   			public static void main(String pb99[])
   				{
   					int i=0,j,n;
-  					Scanner np = new Scanner(System.in);// object creation  style in java
+  					Scanner np = new Scanner(System.in);
   					System.out.println("Enter Number Range limit");
                                         n = np.nextInt()
                                         int k=n;
