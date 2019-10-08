@@ -29,10 +29,10 @@
 
 * To Compile the program
 ```markdown
-$ java <FileName>.java
+$ javac <FileName>.java
 ```
 * To Run the program
 ```markdown
-$ javac <ClassName>
+$ java <ClassName>
 ```
   
