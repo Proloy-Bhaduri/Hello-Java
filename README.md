@@ -25,7 +25,7 @@
 </html>
 
 
-* If you are using Command Line or Terminal use the below format to compile and run
+* If you are using Command Line or Terminal use the below format to compile and run.
 
 * To Compile the program
 ```markdown
